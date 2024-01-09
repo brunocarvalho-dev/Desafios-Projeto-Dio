@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\bin\Debug\net8.0\PrimeiroDesafioComPOO.exe
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\bin\Debug\net8.0\PrimeiroDesafioComPOO.deps.json
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\bin\Debug\net8.0\PrimeiroDesafioComPOO.runtimeconfig.json
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\bin\Debug\net8.0\PrimeiroDesafioComPOO.dll
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\bin\Debug\net8.0\PrimeiroDesafioComPOO.pdb
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.AssemblyInfo.cs
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.dll
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\refint\PrimeiroDesafioComPOO.dll
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.pdb
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\PrimeiroDesafioComPOO.genruntimeconfig.cache
+C:\Users\User\Documents\DesafioProjetoDio1\PrimeiroDesafioComPOO\obj\Debug\net8.0\ref\PrimeiroDesafioComPOO.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroDesafioComPOO", "PrimeiroDesafioComPOO\PrimeiroDesafioComPOO.csproj", "{D0C19B3B-E082-406A-B59B-37E2F77109AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroDesafioComPOOTeste", "PrimeiroDesafioComPOOTeste\PrimeiroDesafioComPOOTeste.csproj", "{2477972D-2569-4504-BCDB-C3D3AFD63EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C19B3B-E082-406A-B59B-37E2F77109AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C19B3B-E082-406A-B59B-37E2F77109AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C19B3B-E082-406A-B59B-37E2F77109AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C19B3B-E082-406A-B59B-37E2F77109AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2477972D-2569-4504-BCDB-C3D3AFD63EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2477972D-2569-4504-BCDB-C3D3AFD63EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2477972D-2569-4504-BCDB-C3D3AFD63EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2477972D-2569-4504-BCDB-C3D3AFD63EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
